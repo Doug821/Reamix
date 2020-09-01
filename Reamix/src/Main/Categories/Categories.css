@@ -1,0 +1,31 @@
+.Categories {
+    background: #ECAC96;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.Categories .Info {
+    background: #ECAC96;
+    padding: 10% 0 10% 10%;
+    font-weight: 300;
+    color: #333333;
+}
+
+.Categories .Info h1, #h3{
+    background: #ECAC96;
+}
+
+.Music-grid {
+    background: #ECAC96;
+    display: grid;
+    grid-template-columns: 315px 315px 315px;
+    grid-gap: 55px;
+    align-items: center;
+    justify-content: right ;
+    padding: 4rem;
+}
+
+.Music-grid iframe {
+    border-radius: 5px;
+}

@@ -1,0 +1,22 @@
+.MainPod div {
+    background: #333333;
+}
+
+.Title {
+    text-align: center;
+    font-weight: 500;
+    color: #F2F2F2;
+    padding: 2rem 0;
+}
+
+.Title h1, h3 {
+    background: #333333;
+}
+
+.Title h3 {
+    font-weight: 200;
+}
+
+.MainPod iframe {
+    margin: 2rem;
+}

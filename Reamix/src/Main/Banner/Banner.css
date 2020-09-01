@@ -1,0 +1,19 @@
+.Banner {
+    background: #00ffc3;
+}
+
+.Banner img {
+    width: 100%;
+    height: 620px;
+    filter: blur(4px);
+    margin-top: 5px;
+}
+
+.Banner iframe {
+    width: 720px;
+    height: 405px;
+    position: absolute;
+    top: 14rem;
+    right: 4rem;
+    border-radius: 5px;
+}
